@@ -52,7 +52,3 @@ Norwegian restaurants, hotel kitchens, catering companies, and food-service SMBs
 
 - 🌐 Website: [ikonline.no](https://ikonline.no)
 - 📧 Platform: [platform.ikonline.no](https://platform.ikonline.no)
-```
-3. Commit — it will automatically appear on the organization's Overview page. [josh-ops](https://josh-ops.com/posts/github-organization-readme-badge-generator/)
-
-The structure should be: `.github` → `profile` → `README.md`. [youtube](https://www.youtube.com/watch?v=hqFq-2yqPZM)
